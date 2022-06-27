@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FragmentsDos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Next">Next</string>
+    <string name="Fragment3">Frag3</string>
+    <string name="Fragment4">Frag4</string>
+    <string name="Fragment5">Frag5</string>
+</resources>
