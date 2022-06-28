@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/opCopy"
+        android:icon="@drawable/ic_copy"
+        android:orderInCategory="4"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/copy" />
+    <item
+        android:id="@+id/opPaste"
+        android:icon="@drawable/ic_paste"
+        android:orderInCategory="5"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/paste" />
+    <item
+        android:id="@+id/opCut"
+        android:icon="@drawable/ic_cut"
+        android:orderInCategory="6"
+        app:showAsAction="ifRoom|withText"
+        android:title="@string/cut" />
+</menu>

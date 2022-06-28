@@ -6,4 +6,11 @@
     <string name="Fragment3">Frag3</string>
     <string name="Fragment4">Frag4</string>
     <string name="Fragment5">Frag5</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="cut">Cut</string>
+    <string name="fragmentDialog">Fragment Dialog</string>
+    <string name="dialogo_confirmar_borrado">Dialogo confirmar borrado</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Cancelar">Cancelar</string>
 </resources>

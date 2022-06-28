@@ -3,13 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProyects/FragmentsDos/app/src/main/res/drawable-anydpi/ic_copy.xml" value="0.2985" />
+        <entry key="..\:/AndroidStudioProyects/FragmentsDos/app/src/main/res/drawable-anydpi/ic_cut.xml" value="0.2985" />
         <entry key="..\:/AndroidStudioProyects/FragmentsDos/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
-        <entry key="..\:/AndroidStudioProyects/FragmentsDos/app/src/main/res/layout/activity_result.xml" value="0.35260416666666666" />
+        <entry key="..\:/AndroidStudioProyects/FragmentsDos/app/src/main/res/layout/activity_result.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProyects/FragmentsDos/app/src/main/res/layout/fragment_dialog.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidStudioProyects/FragmentsDos/app/src/main/res/layout/fragment_fifth.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidStudioProyects/FragmentsDos/app/src/main/res/layout/fragment_first.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidStudioProyects/FragmentsDos/app/src/main/res/layout/fragment_fourth.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidStudioProyects/FragmentsDos/app/src/main/res/layout/fragment_second.xml" value="0.358695652173913" />
         <entry key="..\:/AndroidStudioProyects/FragmentsDos/app/src/main/res/layout/fragment_third.xml" value="0.358695652173913" />
+        <entry key="..\:/AndroidStudioProyects/FragmentsDos/app/src/main/res/menu/fragment_menu.xml" value="0.365625" />
       </map>
     </option>
   </component>

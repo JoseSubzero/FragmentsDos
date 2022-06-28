@@ -2,7 +2,9 @@ package com.example.fragmentsdos
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import com.example.fragmentsdos.databinding.ActivityResultBinding
+import com.example.fragmentsdos.fragments.DialogFragment
 import com.example.fragmentsdos.fragments.FifthFragment
 import com.example.fragmentsdos.fragments.FourthFragment
 import com.example.fragmentsdos.fragments.ThirdFragment
@@ -68,5 +70,9 @@ class ResultActivity : AppCompatActivity() {
             )
             .replace(R.id.fragmentContainerView,fragment5)
             .commit()}
+
+        }
+    fun onClickDialog(view: View){
+        DialogFragment().show(supportFragmentManager, DialogFragment.TAG)
     }
 }
